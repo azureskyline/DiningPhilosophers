@@ -1,4 +1,4 @@
-# DiningPhilosophers
+# DiningPhilosophers with Monitor Implementation
 
 The dining philosopher’s problem
 This concept is associated with the classic concurrency problem dealing with synchronization. In the problem there are five philosophers who are concerned with thinking, becoming hungry and eating. The problem is that although each philosopher has one chopstick, they all have to eat with a shared chopstick without risking starvation. And so the process would be for one philosopher to pick up the chopstick and then eat, then put down or return the chopstick to let other philosophers eat.

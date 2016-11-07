@@ -55,5 +55,5 @@ Philosopher 4 is THINKING
 *Note: All Philosophers must be able to eat. Starvation should not be an issue.
 
 ## Authors
-* **S. Kennedy** - *Professor for COSC 460 Operating Systems*
-* **Catherine Austria** - *Student*
+* **S. Kennedy** - *Professor for COSC 460 Operating Systems; project concept*
+* **Catherine Austria** - *Student ; codework*
